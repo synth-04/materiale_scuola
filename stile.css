@@ -1,0 +1,28 @@
+body {
+    display: flex;
+	flex-direction: column;
+    justify-content: center; /* Centra orizzontalmente */
+    align-items: center; /* Centra verticalmente */
+    margin: 0;
+    font-family: Arial, sans-serif; /* Stile del font */
+    background-color: #f0f0f0; /* Colore di sfondo */
+}
+
+h1 {
+    text-align: center; /* Centra il titolo orizzontalmente */
+}
+
+p {
+    text-align: center; /* Centra i paragrafi orizzontalmente */
+    margin: 10px 0; /* Margine superiore e inferiore */
+}
+
+a {
+    color: #007bff; /* Colore del testo dei link */
+    text-decoration: none; /* Rimuove la sottolineatura */
+    font-weight: bold; /* Testo in grassetto */
+}
+
+a:hover {
+    text-decoration: underline; /* Sottolinea il link al passaggio del mouse */
+}

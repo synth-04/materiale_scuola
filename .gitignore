@@ -1,0 +1,6 @@
+# ignora i file nelle cartelle
+
+dashboard/
+img/
+webalizer/
+xampp/
